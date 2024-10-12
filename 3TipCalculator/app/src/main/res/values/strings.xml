@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">#3TipCalculator</string>
+    <string name="hint">Your bill amount </string>
+    <string name="calculateTipBtn">Calculate Tip</string>
+    <string name="tipAmounts">Tip amounts will display here</string>
+    <string name="tipAmountsRes">The tips are as follows:\n10%% = %1$s\n15%% = %2$s\n20%% = %3$s</string>
+    <string name="tipAmountsError">YOU MUST ENTER A BILL AMOUNT</string>
+
+</resources>
