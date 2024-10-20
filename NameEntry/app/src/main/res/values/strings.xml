@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NameEntry</string>
+    <string name="hint">Enter Name</string>
+    <string name="Button">Add Name</string>
+    <string name="errorMessage">No Name Entered</string>
+    <string name="defaultMessage">No names to display</string>
+</resources>
