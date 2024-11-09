@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleWithIntent</string>
+    <string name="contentDescription">an image</string>
+    <string name="toolBarTitle">Main Activity 2</string>
+</resources>
