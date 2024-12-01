@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProductRoom</string>
+    <string name="contact_id">Contact ID</string>
+    <string name="not_assigned">Not Assigned</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="add_text">Add</string>
+    <string name="find_text">Find</string>
+    <string name="delete_text">Delete Contact</string>
+    <string name="asc">Asc</string>
+    <string name="desc">Desc</string>
+    <string name="name_hint">Enter Name</string>
+    <string name="number_hint">Enter Number</string>
+
+</resources>

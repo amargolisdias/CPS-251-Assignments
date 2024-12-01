@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="#e0af1f">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/contact_row"
+            android:layout_width="170dp"
+            android:layout_height="30dp"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/contact_row2"
+            android:layout_width="172dp"
+            android:layout_height="30dp"
+            android:textSize="18sp"
+            android:textColor="@color/black"
+            android:text="TextView" />
+
+        <ImageView
+            android:id="@+id/deleteIcon"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:src="@drawable/bin2"
+            android:contentDescription="Delete contact"
+            android:layout_gravity="end"
+            android:layout_marginStart="8dp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
